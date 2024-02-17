@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wyk1111l
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on development
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 2874480212@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
